@@ -2,18 +2,18 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Sara Cornejo Zepeda
+  given: Sara
+  family: Cornejo Zepeda
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: she/her
 postnominals:
   - PhD
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: PhD Student in Geospatial Analytics
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -40,18 +40,19 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Urban Hydrology
+  - Nature Based Solutions
+  - Geospatial Analysis Systems
+  - Innovative Monitoring Instrumentation
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: MS Marine, Earth and Atmospheric Sciences
+    institution: North Carolina State University
+    start: 2024-01-10
+    end: 2025-12-09
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Thesis on Improved Quantification of Dilution in Wastewater Treatment Plant
+      Using Organic Matter Fluorescence
     button:
       text: Download dissertation
       url: /resume.pdf
